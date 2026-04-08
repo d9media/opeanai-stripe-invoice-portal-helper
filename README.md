@@ -18,6 +18,10 @@ Paste the script from `snippets/paste-into-console.js` into the browser console 
 - Some attempts to fetch PDF URLs directly may fail due to CORS restrictions.
 - In that case, this tool falls back to opening the invoice portal links directly.
 
+## Disclaimer
+
+This project is intended for use on pages you have permission to access.
+
 ## Example
 
 ```js
